@@ -1,9 +1,8 @@
-# DA_Project_Churn_Analysis
-## BANK CHURN
+# DA_Project_Churn_Analysis | BANK CHURN
 
 *Brittney Kakie*
 
-![churn_image](Churn-Prediction-scaled.jpg)
+![](images/Churn-Prediction-scaled.jpg)
 
 > **About this dataset**
 > 
@@ -51,6 +50,7 @@
 - SQL Analysis
     - Using SQL to answer questions posed by the company to assist with churn recovery.
 - Tableau Dashboard
+    - ![](images/Tableau_preview.png)
     - An interactive dashboard explaing my bank churn analysis by demographics and credit card type.
 - Deep Dive
     - An exploratory and explanatory Analysis using python libraries to better understand the problem, along with a few recommendations.
