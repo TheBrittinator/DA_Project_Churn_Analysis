@@ -99,4 +99,4 @@
 
 > Most customers hold more than one product. Perhaps include additional card offerings to customers who have only one credit card would yield a higher success rate.
 
-> In conclusion, recovering lost customers as well finding new and innovative ways to attract new customers from diverse demographics would be an ideal strategy in reducing bank churn.
+> In conclusion, recovering lost customers as well as finding new and innovative ways to attract new customers from diverse demographics would be an ideal strategy in reducing bank churn.
