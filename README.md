@@ -48,7 +48,7 @@
 ## Project Parts
 
 - SQL Analysis
-    - Using SQL to answer questions posed by the company to assist with churn recovery. Click [HERE](https://app.datacamp.com/workspace/w/d9549391-a1d1-4c70-b730-4a13af65db95/edit) to view the html document.
+    - Using SQL to answer questions posed by the company to assist with churn recovery. Click [HERE](notebook.ipynb) to view the html document.
 - Tableau Dashboard
     - ![](images/Tableau_preview.png)
     - An interactive dashboard explaing my bank churn analysis by demographics and credit card type.
