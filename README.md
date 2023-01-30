@@ -58,7 +58,7 @@
     - A distribution of each quantitative variable, as well as a summary of interesting insights.
     - A correlation analysis to further pinpoint the variables that contribute most to this problem.
     - After a thorough analysis I answered the following four questions:
-    
+---
         `Is there a Difference in Transaction Counts by Age Groups for CHURNED and EXISTING CUSTOMERS?`
         > **YES:**
         - Transaction counts do not exceed more than 50 for all attrited customers, across all age groups.
@@ -97,4 +97,6 @@
 
 > I would also suggest a campaign to appeal to younger age demographics, perhaps a student product or benefits that appeal to users in a lower income category.
 
-> Recovering lost customers and attracting new customers would be an ideal strategy in reducing bank churn.
+> Most customers hold more than one product. Perhaps include additional card offerings to customers who have only one credit card would yield a higher success rate.
+
+> Recovering lost customers as  attracting new customers would be an ideal strategy in reducing bank churn.
