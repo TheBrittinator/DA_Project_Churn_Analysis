@@ -3,7 +3,7 @@
 
 *Brittney Kakie*
 
-![](Churn-Prediction-scaled.jpg)
+![](images/Churn-Prediction-scaled.jpg)
 
 > **About this dataset**
 > 
