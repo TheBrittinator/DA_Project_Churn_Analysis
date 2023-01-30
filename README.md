@@ -95,4 +95,4 @@
 
 > I would also suggest a campaign to appeal to younger age demographics, perhaps a student product or benefits that appeal to users in a lower income category.
 
-Recovering lost customers and attracting new customers would be an ideal strategy in reducing bank churn.
+> Recovering lost customers and attracting new customers would be an ideal strategy in reducing bank churn.
