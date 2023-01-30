@@ -58,8 +58,8 @@
     - A distribution of each quantitative variable, as well as a summary of interesting insights.
     - A correlation analysis to further pinpoint the variables that contribute most to this problem.
     - After a thorough analysis I answered the following four questions:
----
-        `Is there a Difference in Transaction Counts by Age Groups for CHURNED and EXISTING CUSTOMERS?`
+
+        > `Is there a Difference in Transaction Counts by Age Groups for CHURNED and EXISTING CUSTOMERS?`
         > **YES:**
         - Transaction counts do not exceed more than 50 for all attrited customers, across all age groups.
         - For existing Customers, the 40 - 50 age group makes the most transactions compared with all other age groups.
