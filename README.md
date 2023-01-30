@@ -72,7 +72,7 @@
 
         `What is the proportion of all customers by age group, and how does that compare with churned customers?`
         > **The 40-50 demographic make up almost 50% of all customers, and the 30 and Younger demographic makes up the smallest proportion of customers.**
-        > **All demographics across all age groups hold the same rankings in the churned customer category.**
+        > **All age groups hold the same rankings in the churned customer category.**
 
         `What is the distribution of card types by education level across all customers, and how does that compare with churned customers?`
         > **Most Blue card holders are in the Graduate demographic.**
