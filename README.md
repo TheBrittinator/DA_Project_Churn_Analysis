@@ -48,16 +48,17 @@
 ## Project Parts
 
 - SQL Analysis
-    - Using SQL to answer questions posed by the company to assist with churn recovery. Click [HERE](notebook.ipynb) to view the html document.
+    - Using SQL to answer questions posed by the company to assist with churn recovery. Click [HERE](notebook.ipynb) to view the notebook (NOTE: Does not run outside of DataCamp workspace).
 - Tableau Dashboard
     - ![](images/Tableau_preview.png)
     - An interactive dashboard explaing my bank churn analysis by demographics and credit card type.
     - Click [HERE](https://public.tableau.com/views/BankChurnAnalysis_16744339402630/Churn_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to view.
 - Deep Dive
     - An exploratory and explanatory Analysis using python libraries to better understand the problem, along with a few recommendations.
-    - A distribution of each quantitative variable, as well as a sumamry of interesting insights.
+    - A distribution of each quantitative variable, as well as a summary of interesting insights.
     - A correlation analysis to further pinpoint the variables that contribute most to this problem.
     - After a thorough analysis I answered the following four questions:
+    
         `Is there a Difference in Transaction Counts by Age Groups for CHURNED and EXISTING CUSTOMERS?`
         > **YES:**
         - Transaction counts do not exceed more than 50 for all attrited customers, across all age groups.
