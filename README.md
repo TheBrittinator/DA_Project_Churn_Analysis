@@ -52,6 +52,7 @@
 - Tableau Dashboard
     - ![](images/Tableau_preview.png)
     - An interactive dashboard explaing my bank churn analysis by demographics and credit card type.
+    - Click [HERE](https://public.tableau.com/views/BankChurnAnalysis_16744339402630/Churn_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to view.
 - Deep Dive
     - An exploratory and explanatory Analysis using python libraries to better understand the problem, along with a few recommendations.
     - A distribution of each quantitative variable, as well as a sumamry of interesting insights.
