@@ -58,8 +58,9 @@
     - A distribution of each quantitative variable, as well as a summary of interesting insights.
     - A correlation analysis to further pinpoint the variables that contribute most to this problem.
     - After a thorough analysis I answered the following four questions:
----
-        `Is there a Difference in Transaction Counts by Age Groups for CHURNED and EXISTING CUSTOMERS?`
+
+
+      `Is there a Difference in Transaction Counts by Age Groups for CHURNED and EXISTING CUSTOMERS?`
         > **YES:**
         - Transaction counts do not exceed more than 50 for all attrited customers, across all age groups.
         - For existing Customers, the 40 - 50 age group makes the most transactions compared with all other age groups.
@@ -71,7 +72,7 @@
 
         `What is the proportion of all customers by age group, and how does that compare with churned customers?`
         > **The 40-50 demographic make up almost 50% of all customers, and the 30 and Younger demographic makes up the smallest proportion of customers.**
-        > **All demographics across all age groups hold the same rankings in the churned customer category.**
+        > **All age groups hold the same rankings in the churned customer category.**
 
         `What is the distribution of card types by education level across all customers, and how does that compare with churned customers?`
         > **Most Blue card holders are in the Graduate demographic.**
@@ -91,7 +92,7 @@
 - **Income category also peaked my interest as well. 38% of all churned customers are in the less than 40K income category, and this same category makes up 37% of all customers.** 
 - **The distribution of the number of products held by each customer also yielded some unexpected results. It is left-skewed, meaning the number of clients increases as the number of the products increases. The highest peak is at 5!**
 
-#### Recommendations based on these findings:
+## Recommendations based on these findings:
 
 > In short, a campaign to recover churned customers in your largest demographic (40 - 50 year-olds) would be recommended. 
 
@@ -99,4 +100,4 @@
 
 > Most customers hold more than one product. Perhaps include additional card offerings to customers who have only one credit card would yield a higher success rate.
 
-> In conclusion, recovering lost customers as well finding new and innovative ways to attract new customers from diverse demographics would be an ideal strategy in reducing bank churn.
+> In conclusion, recovering lost customers as well as finding new and innovative ways to attract new customers from diverse demographics would be an ideal strategy in reducing bank churn.
