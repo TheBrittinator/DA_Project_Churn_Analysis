@@ -54,6 +54,7 @@
     - An interactive dashboard explaing my bank churn analysis by demographics and credit card type.
     - Click [HERE](https://public.tableau.com/views/BankChurnAnalysis_16744339402630/Churn_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to view.
 - Deep Dive
+    - **View Exploratory Analysis and Visualizations (HERE)[https://github.com/TheBrittinator/DA_Project_Churn_Analysis/blob/main/deep_dive.ipynb]**
     - An exploratory and explanatory Analysis using python libraries to better understand the problem, along with a few recommendations.
     - A distribution of each quantitative variable, as well as a summary of interesting insights.
     - A correlation analysis to further pinpoint the variables that contribute most to this problem.
