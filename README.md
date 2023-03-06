@@ -84,7 +84,7 @@
 
 #### There are others, but here is what stood out to me the most:
 
-- **93 % of all customers have the Blue credit card. Making some demographic comparisons might shed some new insights on attrited customers.**
+- **93 % of all customers have the Blue credit card. Making some demographic comparisons might shed some new insights on churned customers.**
 - **46 % of all customers are ages 40-50. Which peaks my interest for a number of reasons:**
 	- **Is this because card benefits only appeal to this age group?**
 	- **Is there a way to sell this product to the younger demographic?**
